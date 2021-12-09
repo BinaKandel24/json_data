@@ -1,0 +1,42 @@
+[
+      {
+        "sn": 1,
+        "componentName": "Component1",
+        "isPhysical": true,
+        "unit": 222.30869094199232,
+        "quantity": 209.07966187248596,
+        "cost": 2999.2169955376676
+      },
+      {
+        "sn": 2,
+        "componentName": "Component2",
+        "isPhysical": false,
+        "unit": 207.9394965499511,
+        "quantity": 292.5004755059572,
+        "cost": 2036.0079202909772
+      },
+      {
+        "sn": 3,
+        "componentName": "Component3",
+        "isPhysical": true,
+        "unit": 367.6977685601947,
+        "quantity": 251.52975724030162,
+        "cost": 2689.6039377465518
+      },
+      {
+        "sn": 4,
+        "componentName": "Component4",
+        "isPhysical": true,
+        "unit": 224.54504115902216,
+        "quantity": 274.6257599994511,
+        "cost": 2358.60456448291
+      },
+      {
+        "sn": 5,
+        "componentName": "Component5",
+        "isPhysical": falsw,
+        "unit": 139.22409052009317,
+        "quantity": 218.89898888271645,
+        "cost": 2654.811138233944
+      }
+  ]
