@@ -34,7 +34,7 @@
       {
         "sn": 5,
         "componentName": "Component5",
-        "isPhysical": falsw,
+        "isPhysical": false,
         "unit": 139.22409052009317,
         "quantity": 218.89898888271645,
         "cost": 2654.811138233944
