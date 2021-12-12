@@ -1,0 +1,34 @@
+[
+{
+	"economic":3211,
+	"description":"Administrative expenses"
+},
+{
+	"economic":3211106,
+	"description":"Entertainment expenses",
+	"estimation_gob":3000,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":3000,
+	"distribution_rpa_gob":0,
+	"actual_gob":753,
+	"actual_rpa_gob":0,
+	"expenditure_gob":25,
+	"expenditure_rpa_gob":0
+},
+{
+	"economic":3211125,
+	"description":"Advertising expenses",
+	"estimation_gob":6000,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":6000,
+	"distribution_rpa_gob":0,
+	"actual_gob":0,
+	"actual_rpa_gob":0,
+	"expenditure_gob":0,
+	"expenditure_rpa_gob":0
+}
+]
