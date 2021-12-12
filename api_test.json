@@ -9,15 +9,15 @@
 {
 	"economic":3111332,
 	"description":"Honorarium allowance",
-	"estimation_gob":55000
-	"estimation_rpa_gob":0
-	"withdrawl_gob":0
-	"withdrawl_rpa_gob":0
-	"distribution_gob":55000
-	"description_rpa_gob":0
-	"actual_gob":52710
-	"actual_rpa_gob":0
-	"expenditure_gob":95
+	"estimation_gob":55000,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":55000,
+	"distribution_rpa_gob":0,
+	"actual_gob":52710,
+	"actual_rpa_gob":0,
+	"expenditure_gob":95,
 	"expenditure_rpa_gob":0
 }
 ]
