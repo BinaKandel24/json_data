@@ -1,0 +1,34 @@
+[
+{
+	"economic":3255,
+	"description":"Printing and stationery"
+},
+{
+	"economic":3255101,
+	"description":"Computer consumables",
+	"estimation_gob":3000,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":3000,
+	"distribution_rpa_gob":0,
+	"actual_gob":333,
+	"actual_rpa_gob":0,
+	"expenditure_gob":11,
+	"expenditure_rpa_gob":0
+},
+{
+	"economic":3255105,
+	"description":"Other stationery",
+	"estimation_gob":4000,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":4000,
+	"distribution_rpa_gob":0,
+	"actual_gob":613,
+	"actual_rpa_gob":0,
+	"expenditure_gob":15,
+	"expenditure_rpa_gob":0
+}
+]
