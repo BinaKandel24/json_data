@@ -1,0 +1,21 @@
+[
+
+{
+	"economic":3257,
+	"description":"Professional services, honorariums and special expenses"
+},
+{
+	"economic":3257101,
+	"description":"HConsultancy",
+	"estimation_gob":242920,
+	"estimation_rpa_gob":0,
+	"withdrawl_gob":0,
+	"withdrawl_rpa_gob":0,
+	"distribution_gob":242920,
+	"distribution_rpa_gob":0,
+	"actual_gob":0,
+	"actual_rpa_gob":0,
+	"expenditure_gob":0,
+	"expenditure_rpa_gob":0
+}
+]
