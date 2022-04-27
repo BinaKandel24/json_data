@@ -7,7 +7,7 @@
    },
    {
       "sn":1,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "column_value":"Phyllis",
       "column_position":2
    },
@@ -19,7 +19,7 @@
    },
    {
       "sn":2,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "column_value":"Benjamin",
       "column_position":2
    },
@@ -31,7 +31,7 @@
    },
    {
       "sn":3,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "column_value":"Laura",
       "column_position":2
    },
@@ -43,7 +43,7 @@
    },
    {
       "sn":1,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "column_value":"Berent",
       "column_position":2
    },
@@ -55,7 +55,7 @@
    },
    {
       "sn":4,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "vcolumn_alue":"Jessie",
       "column_position":2
    },
@@ -67,7 +67,7 @@
    },
    {
       "sn":5,
-      "column_name":"First Name",
+      "column_name":"FirstName",
       "column_value":"Beatrice",
       "column_position":2
    }
